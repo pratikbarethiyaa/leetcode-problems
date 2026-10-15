@@ -1,20 +1,16 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        string res;
-        int i=0;
-        while(sum>0){
-            int dig=(sum<9 ? sum : 9);
-            res.push_back(dig+'0');
-            if(res.length()>num) return "";
+        if(sum>9*num) return "";
+        string res(num,'0');
+
+        for(int i=0;i<num;i++){
+            int dig=min(9,sum);
+            res[i]=dig+'0';
             sum-=dig;
-            i++;
-            
+            if(sum<0) break;
         }
-        while(i<num){
-            res.push_back('0');
-            i++;
-        }
+
         return res;
 
     }
