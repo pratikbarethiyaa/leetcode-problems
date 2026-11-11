@@ -26,8 +26,8 @@ class Solution {
                     res1+=(long)(need2-need1)*cost2;
                 }
             }
-            long res2=(long)cost1*need1+(long)cost2*need2;
-            return Math.min(res1,res2);
+            // long res2=(long)cost1*need1+(long)cost2*need2;
+            return res1;
         }
     }
 }
