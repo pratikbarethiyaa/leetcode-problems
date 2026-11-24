@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -25,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
