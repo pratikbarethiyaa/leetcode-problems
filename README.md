@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
@@ -39,4 +40,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Graph Theory
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Matrix
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
