@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/pratikbarethiyaa/leetcode-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
